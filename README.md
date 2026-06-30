@@ -1,2 +1,34 @@
-# 344bba81bcba08ae-career-development-customer-ch
-You shouldn't need someone manually watching channels 24/7 to have 24/7 automated responses without touching a server.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Career Development Customer Churn Prediction And Retention — fully confi
+# Career Development Customer Churn Prediction and Retention API
+
+A comprehensive customer churn prediction and retention api designed specifically for the career development industry.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI8wP4eP0bWg885bucZD2E)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI8wP4eP0bWg885bucZD2E)
+
